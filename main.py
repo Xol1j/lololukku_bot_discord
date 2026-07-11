@@ -144,7 +144,6 @@ async def info(ctx):
 Bot is made by lololukku and  NikitaYarosh
 Bot is currently in active development so if you found bug please contact the developers
 discord: @petro_sosiska
-telegram: @lololukku
 ```
 """)
 @bot.slash_command(name="init",guild_ids=[1232805929704099850])
